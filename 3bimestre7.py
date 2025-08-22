@@ -1,0 +1,6 @@
+Link3=int(input("Quantas acessos tiveram o 3° link? "))
+Link2=int(Link3*2)
+Link1=int(Link3*4)
+print("Quantidade de acessos do link 1:",Link1)
+print("Quantidade de acessos do link 2:",Link2)
+print("Quantidade de acessos do link 3:", Link3)
